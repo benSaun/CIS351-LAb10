@@ -1,0 +1,1 @@
+void myQsort(int *begin, int *end);
